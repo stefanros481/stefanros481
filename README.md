@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanros481
-- 👀 I’m interested in k8s, Python, FastAPI
-- 🌱 I’m currently learning FastAPI and k8s
+- 👀 I’m interested in k8s, Python, FastAPI, Golang
+- 🌱 I’m currently learning FastAPI, k8s and Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @stefanros
 
